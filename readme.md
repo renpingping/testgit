@@ -27,8 +27,7 @@ Vue 会尽可能高效地渲染元素，通常会复用已渲染元素，而不�
 
 **测试**
 
-![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
+![blockchain](https://cdn2.jianshu.io/assets/web/misc-background-2bd0f42d30ede727ef60751e6572e740.png)
 
 [百度](http://baidu.com)
 
